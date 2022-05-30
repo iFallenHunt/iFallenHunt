@@ -21,8 +21,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iFallenHunt&layout=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iFallenHunt&show_icons=true&theme=dark)
+<div>
+<a href="https://github.com/iFallenHunt">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFallenHunt&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iFallenHunt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
    
 ![Snake animation](https://github.com/iFallenHunt/iFallenHunt/blob/output/github-contribution-grid-snake.svg)   
@@ -37,11 +40,7 @@
 </div>
 
 
-<div>
-<a href="https://github.com/iFallenHunt">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFallenHunt&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iFallenHunt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
    
    
    
