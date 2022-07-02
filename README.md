@@ -1,6 +1,6 @@
 **Hello Dev's, my name is Lucas.**
 
- I work as a systems analyst and I am also studying systems analysis and development 
+ I am also studying systems analysis and development 
 
  I have knowledge in some languages, but recently I discovered the importance of github to our area 🥲
 
