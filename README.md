@@ -1,4 +1,4 @@
-🇧🇷️ [PT-BR]()
+🇧🇷️ [PT-BR](https://github.com/iFallenHunt/iFallenHunt-ptbr/blob/main/README-PTBR.md)
 
 With a degree in Systems Analysis and Development, I started 2024 with various plans and projects that have finally come to fruition. 
 
