@@ -1,20 +1,23 @@
-**Hello, my name is Lucas.**
+🇧🇷️ [PT-BR]()
 
-I'm taking my last semester of systems analysis and development, I intend to go on to software engineering and work with digital banks.
+With a degree in Systems Analysis and Development, I started 2024 with various plans and projects that have finally come to fruition. 
 
-For a while now I've been investing in my github and in practical projects using my knowledge, I started with C, C# and Python.
+I've started a second degree in Software Engineering and I'm completing Harvard's CS50 course, as well as being in touch with other languages.
 
-I'm currently focused on Java and GO, I believe java is the most interesting path for me at the moment.
+I'm currently studying and dedicating myself to Java/Springboot, trying to deepen my knowledge of this language. 
+
+I have some projects on my GitHub and I'm working on some more, always in constant study and improvement.
+
 
 so here are some of the things I've been studying and working on
 
 
-**I work with:** 
+#### I work with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 
-**I'm currently studying these languages:**
+#### I'm currently studying these languages:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>
 
@@ -27,7 +30,7 @@ so here are some of the things I've been studying and working on
 </div>
 
 
-Contact me
+#### Contact me
  
 <div>
 <a href="https://instagram.com/slucasxs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
