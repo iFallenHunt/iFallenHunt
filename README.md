@@ -11,7 +11,7 @@ Working on the Odoo Community project through ITBrasil
 
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ifallenhunt&show_icons=true&theme=midnight-purple&include_all_commits=true&rank_icon=default&count_private=true"/>   
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifallenhunt&layout=donut&hide=PHP,Swift&exclude_repo=YoutubeChannel&langs_count=5&theme=midnight-purple"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifallenhunt&layout=donut&exclude_repo=YoutubeChannel&langs_count=5&theme=midnight-purple"/>
 
 </div>
 
