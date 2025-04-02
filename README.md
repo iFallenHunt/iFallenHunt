@@ -1,11 +1,3 @@
-[🇧🇷️](https://github.com/iFallenHunt/iFallenHunt-ptbr/blob/main/README-PTBR.md)
-
-Systems Analyst 👨🏾‍🎓
-
-Software Engineer ✍🏾
-
-Working on the Odoo Community project through ITBrasil
-
 <div>
 <a href="https://github.com/iFallenHunt">
 
