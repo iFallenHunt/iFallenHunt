@@ -2,7 +2,7 @@
 
 # Hey, I'm Lucas Santos 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+JavaScript+%7C+Java;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9745F5&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Node.JS+%7C+Odoo;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
