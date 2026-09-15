@@ -21,8 +21,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ifallenhunt&show_icons=true&theme=midnight-purple&include_all_commits=true&rank_icon=default&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifallenhunt&layout=donut&exclude_repo=YoutubeChannel&langs_count=5&theme=midnight-purple"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifallenhunt&show_icons=true&theme=midnight-purple&include_all_commits=true&rank_icon=default&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ifallenhunt&layout=donut&exclude_repo=YoutubeChannel&langs_count=5&theme=midnight-purple"/>
 
 </div>
 
